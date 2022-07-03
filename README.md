@@ -90,4 +90,4 @@
        'I have eaten ' + 99 + ' burritos.'
 
       This expression causes an error because a str can only concatenate to str (not "int") .
-      We can fix it by converting the integer value into a string.(By putting double or single quotes to the integer value)
+      We can fix it by converting the integer value into a string.(By putting double or single quotes to the integer value).
