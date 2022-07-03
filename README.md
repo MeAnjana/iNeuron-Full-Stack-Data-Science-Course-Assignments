@@ -2,19 +2,19 @@
 
 1. In the below elements which of them are values or an expression? eg:- values can be integer or string and expressions will be mathematical operators.
 
-    *          expression
+    *          :expression
     
-   'hello'     value
+   'hello'     :value
    
-   -87.8       value
+   -87.8       :value
    
-   -           expression
+   -           :expression
    
-   /           expression
+   /           :expression
    
-   +	         expression
+   +	         :expression
    
-   6           value
+   6           :value
    
    
 2. What is the difference between string and variable?
